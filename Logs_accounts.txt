@@ -1,8 +1,0 @@
-{
-    "Riyawalecha1@outlook.in": {
-        "Last check": "Your email or password was not valid !",
-        "Today's points": 0,
-        "Points": 0
-    },
-    "Elapsed time": "00:00:08"
-}
